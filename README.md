@@ -1,2 +1,2 @@
-# odelcroi.github.io
+# Kairn project
 website of kairn.io
